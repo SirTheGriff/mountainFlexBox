@@ -1,0 +1,1 @@
+This was a short project through Udemy's Advanced WebDev Bootcamp that focuses on flexbox and media queries.
